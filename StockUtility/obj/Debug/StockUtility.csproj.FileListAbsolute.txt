@@ -1,0 +1,5 @@
+C:\dotNET\TradeMarket\StockUtility\bin\Debug\StockUtility.dll
+C:\dotNET\TradeMarket\StockUtility\bin\Debug\StockUtility.pdb
+C:\dotNET\TradeMarket\StockUtility\obj\Debug\StockUtility.dll
+C:\dotNET\TradeMarket\StockUtility\obj\Debug\StockUtility.pdb
+C:\dotNET\TradeMarket\StockUtility\obj\Debug\StockUtility.csprojResolveAssemblyReference.cache

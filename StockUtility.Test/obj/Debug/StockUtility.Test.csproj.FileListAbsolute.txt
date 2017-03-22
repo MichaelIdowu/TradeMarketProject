@@ -1,0 +1,8 @@
+C:\dotNET\TradeMarket\StockUtility.Test\obj\Debug\StockUtility.Test.csprojResolveAssemblyReference.cache
+C:\dotNET\TradeMarket\StockUtility.Test\bin\Debug\StockUtility.Test.dll
+C:\dotNET\TradeMarket\StockUtility.Test\bin\Debug\StockUtility.Test.pdb
+C:\dotNET\TradeMarket\StockUtility.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\dotNET\TradeMarket\StockUtility.Test\bin\Debug\StockUtility.dll
+C:\dotNET\TradeMarket\StockUtility.Test\bin\Debug\StockUtility.pdb
+C:\dotNET\TradeMarket\StockUtility.Test\obj\Debug\StockUtility.Test.dll
+C:\dotNET\TradeMarket\StockUtility.Test\obj\Debug\StockUtility.Test.pdb

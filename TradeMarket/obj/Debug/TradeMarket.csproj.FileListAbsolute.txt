@@ -1,0 +1,8 @@
+C:\dotNET\TradeMarket\TradeMarket\bin\Debug\TradeMarket.exe.config
+C:\dotNET\TradeMarket\TradeMarket\bin\Debug\TradeMarket.exe
+C:\dotNET\TradeMarket\TradeMarket\bin\Debug\TradeMarket.pdb
+C:\dotNET\TradeMarket\TradeMarket\obj\Debug\TradeMarket.csprojResolveAssemblyReference.cache
+C:\dotNET\TradeMarket\TradeMarket\obj\Debug\TradeMarket.exe
+C:\dotNET\TradeMarket\TradeMarket\obj\Debug\TradeMarket.pdb
+C:\dotNET\TradeMarket\TradeMarket\bin\Debug\StockUtility.dll
+C:\dotNET\TradeMarket\TradeMarket\bin\Debug\StockUtility.pdb
